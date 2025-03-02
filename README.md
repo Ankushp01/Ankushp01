@@ -19,8 +19,8 @@ Email : Herop5100@gmail.com
 ## 🌟 Projects:
 | Project Name | Description | Tech Stack |
 |-------------|------------|------------|
-| [🔗 Expense Tracker]([https://expensetracker-theta-ivory.vercel.app/]) | A React-based expense tracking app | React, Context API, Tailwind CSS |
-| [🔗 Weather App](YOUR_WEATHER_APP_LINK) | A JavaScript-based weather app | HTML, CSS, JavaScript, API |
+| [🔗 Expense Tracker](https://expensetracker-theta-ivory.vercel.app/) | A React-based expense tracking app | React, Context API, Tailwind CSS |
+| [ Weather App] | A JavaScript-based weather app | HTML, CSS, JavaScript, API |
 
 ## 📊 GitHub Stats:
 ![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkushPrasad&show_icons=true&theme=radical)
